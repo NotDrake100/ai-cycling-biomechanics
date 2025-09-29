@@ -47,7 +47,30 @@ It provides **live feedback on knee angles**, flags **injury risks**, and genera
     
     deactivate
 
+# 🚴 AI-Powered Cycling Biomechanics
 
+This project analyzes cycling biomechanics using AI-powered pose detection, tracking knee angles, and generating structured session reports.  
 
+---
 
+## 🎥 Demo Video
+Example cycling session:  
+![Cycling Demo](https://github.com/user-attachments/assets/94b842a2-e246-46c0-9db3-3c113edd8102)
+
+---
+
+## 📈 Angle Tracking Plot
+Knee angle over time with percentile analysis (p50, p95):  
+<img width="1000" height="400" src="https://github.com/user-attachments/assets/d6fc7571-9e0d-4412-9fc6-658d500c50ec" />
+
+---
+
+## 📊 Generated Session Report
+Each session generates:
+- Knee angles per frame  
+- Percentiles (p50, p95)  
+- Flexion/overextension risk  
+- Stroke count and phase tracking  
+
+[Download sample CSV](https://github.com/user-attachments/files/22597145/session_20250929_021823.csv)
  
