@@ -73,5 +73,5 @@ Each session generates:
 - Stroke count and phase tracking  
 
 [Download sample CSV](https://github.com/user-attachments/files/22597145/session_20250929_021823.csv)
-[Download sample CSV](https://github.com/user-attachments/files/22597494/session_20250929_021823_report.pdf)
+[Download sample PDF](https://github.com/user-attachments/files/22597494/session_20250929_021823_report.pdf)
  
