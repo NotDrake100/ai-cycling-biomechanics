@@ -47,3 +47,5 @@ It provides **live feedback on knee angles**, flags **injury risks**, and genera
     
     deactivate
 
+ cycling_demo.gif
+ 
